@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on DIS Tech Cebu<br>🌱 I’m currently learning ServiceNow, Python, Javascript, PLC, Industrial Controls Automation<br>👯 I’m looking to collaborate on IT Software Developer or Controls Automation Engineer<br>📫 How to reach me: jakwabba@gmail.com<br>⚡ Fun fact: I am a contributor in the fields of equipment design, engineering, <br>and software development. 
+🔭 I’m currently working on DIS Tech Cebu<br>🌱 I’m currently learning ServiceNow, Python, Javascript, PLC, Industrial Controls Automation<br>👯 I’m looking to collaborate on IT Software Developer or Controls Automation Engineer<br>📫 How to reach me: jtaclendo@gmail.com<br>⚡ Fun fact: I am a contributor in the fields of equipment design, engineering, <br>and software development. 
 
 
 ## 🌐 Socials:
